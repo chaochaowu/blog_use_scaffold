@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is practicing project by using scaffold in Rails.
 
-Things you may want to cover:
+- Ruby version
+Rails 5.2.3, ruby 2.6.0p0 (2018-12-25 revision 66547) [x86_64-darwin16].
 
-* Ruby version
+- Configuration
+This is simple blog system, it includes basic features of user and post by using scaffold in Rails.
 
-* System dependencies
+- Database creation
+This project has two database table: users and posts.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Database initialization
+Use SQLite.
